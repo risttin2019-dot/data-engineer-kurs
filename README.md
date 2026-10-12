@@ -2,4 +2,4 @@
 
 ## O repozitorijumu
 
-U ovom repozitorijumu će se čuvati sve štp se bude radilo na kursu.
+U ovom repozitorijumu će se čuvati sve što se bude radilo na kursu.
