@@ -1,0 +1,6 @@
+Problem:
+
+U toku prvog časa sam imao problem prilikom kreiranja GitHub naloga.
+Naime odbijao je da prihvati moju e-mail adresu koju koristim za kurs,
+i koju ste preporučili da koristimo prilikom kreiranja GitHub-a. 
+Error poruka: Email domain could not be verified.
