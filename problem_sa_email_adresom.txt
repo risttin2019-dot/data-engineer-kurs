@@ -4,3 +4,9 @@ U toku prvog časa sam imao problem prilikom kreiranja GitHub naloga.
 Naime odbijao je da prihvati moju e-mail adresu koju koristim za kurs,
 i koju ste preporučili da koristimo prilikom kreiranja GitHub-a. 
 Error poruka: Email domain could not be verified.
+
+Rešenje:
+
+Kreirao sam nalog uz pomoć gmail-a, pa sam u podešavanjima dodao e-mail preko kojeg sam se prijavio za kurs.
+Nakon toga sam stavio tu adresu za primarni e-mail,
+a zatim u terminalu upisao git config --global user-email "marko.ilic1993@outlook.com".
